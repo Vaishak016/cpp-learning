@@ -10,7 +10,8 @@ bool sortedarray(vector<int> & arr)
     {
         if(arr[i]>arr[j])
         {
-            return false;        
+            return false;
+            break;        
         }
         i++;
         j++; 
