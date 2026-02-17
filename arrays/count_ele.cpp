@@ -28,6 +28,7 @@ int main()
             count ++;
         }
     }
+    
     cout << "The element " << key << " occured " << count << " times." << endl;
     return 0;
 }
