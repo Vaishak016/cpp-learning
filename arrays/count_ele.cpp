@@ -14,6 +14,7 @@ int main()
     {
         cin >> arr[j];
     }
+
     
     int key;
     cout << "Enter the element you want to find the occurance of:" << endl;
